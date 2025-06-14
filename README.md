@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehrose813
+- 👋 Hi, I’m Mehroz from Pakistan
 - 👀 I’m interested in mobile app development with all new features 
 - 🌱 I’m currently learning the basicsof mobile app dev.
 
